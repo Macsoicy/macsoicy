@@ -3,6 +3,7 @@
 I'm Marshall Mcintyre a Full Stack Web Developer on [Youtube](https://youtube.com/maccodes). I Spend most of time coding outstanding projects.
 
 :mailbox: Reach me out!
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5252597e-27e9-4033-8e40-3aa3c0b3fc43/deploy-status)](https://app.netlify.com/sites/astounding-dolphin-7a73df/deploys)
 
 ![Twitter URL](https://img.shields.io/twitter/url?label=Maccodes&style=social&url=https%3A%2F%2Ftwitter.com%2Fmacsoicy) [![Mail Badge](https://img.shields.io/badge/-maccodes-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/maccodes) [![Linkedin Badge](https://img.shields.io/badge/-marshallmac-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marshallmac/) [![Mail Badge](https://img.shields.io/badge/-@maccodes-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/maccodes) [![Mail Badge](https://img.shields.io/badge/-maccodes-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:maccodes95@gmail.com)
 
